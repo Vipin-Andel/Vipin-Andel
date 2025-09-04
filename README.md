@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vipin Andel
+# Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="48" height="48"> <span style="color:red">I'm Vipin Andel</span>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Quality+Leader;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Building+Analytics+Solutions" alt="Typing SVG" />
@@ -41,12 +41,12 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vipin-Andel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin-Andel&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipin-Andel&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Featured Projects
@@ -121,19 +121,19 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipin-Andel&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vipin-Andel&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vipin-Andel&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   **"Data is the new oil, but analytics is the refinery."** 
   
