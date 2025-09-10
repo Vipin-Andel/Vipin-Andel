@@ -1,7 +1,7 @@
 # Hi there! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Waving Hand" width="48" height="48"> <span style="color:Yellow">I'm Vipin Andel</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Quality+Leader;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Building+Analytics+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Quality+Team+Leader;Python+%7C+SQL+%7C+Power+BI;Transforming+Data+into+Insights;Building+Analytics+Solutions" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
