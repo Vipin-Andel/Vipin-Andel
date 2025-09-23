@@ -57,6 +57,13 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 - Analyzed workout patterns, progress trends, and health metrics
 - **Skills:** Power BI, DAX, Data Modeling, Dashboard Design
 
+### 🛒 [Blinkit Retail Sales Analysis (EDA with Python)](https://github.com/Vipin-Andel/Blinkit_EDA_using_Python)  
+**Python | Pandas | Seaborn | Matplotlib | EDA**  
+- Cleaned and analyzed grocery sales dataset (Blinkit) to uncover product, outlet, and customer trends  
+- Built visualizations (bar, donut, time-series) for outlet size, fat content, category performance  
+- Delivered actionable business insights (fast-moving vs slow-moving products, outlet tier performance)  
+- **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business Analytics  
+  
 ### 🎬 [Netflix Data Analysis](https://github.com/Vipin-Andel/netflix_sql_project)
 **SQL Analysis | Data Exploration**
 - Performed comprehensive analysis of Netflix content catalog using SQL
