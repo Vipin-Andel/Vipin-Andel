@@ -87,10 +87,10 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ## 📈 Professional Journey
 
 ### 🏢 Current Role: Quality Team Lead @ Owens and Minor
-- **Quality Management:** Leading QA programs and process standardization
-- **Process Optimization:** Implementing corrective and preventive actions
-- **Data-Driven Decisions:** Using analytics to improve quality metrics
-- **Remote Leadership:** Managing distributed teams effectively
+- **Quality Management:** Leaded QA programs and process standardization. Improved process compliance by 20% as Team Lead.
+- **Process Optimization:** Analyzed datasets with 100k+ rows. Implemented corrective and preventive actions
+- **Data-Driven Decisions:** Utilised analytics to improve quality metrics
+- **Remote Leadership:** Managed distributed teams effectively
 
 ### 🎯 Career Transition Goals
 - Transitioning from Quality Management to Data Analytics
@@ -103,7 +103,7 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-andel-vipin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipin-Andelhttps://github.com/Vipin-Andel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vipin-Andel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andelvipinz05@gmail.com)
 
 </div>
