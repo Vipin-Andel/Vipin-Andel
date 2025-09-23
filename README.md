@@ -84,6 +84,16 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 - 💾 **SQL for Data Science** - Completed
 - 📈 **Data Visualization with Power BI** - Completed
 
+| Certificate Name                        | Issued By    | Date        | Credential |
+|-----------------------------------------|--------------|-------------|------------|
+| Python for Data Science                 | CloudyML     | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/python_certificate.pdf) |
+| Power BI Analyst                        | CloudyML     | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/powerbi_certificate.pdf) |
+| SQL for Data Science                    | CloudyML     | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/sql_certificate.pdf) |
+| Excel Analytics                         | CloudyML     | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/excel_certificate.pdf) |
+| Lean Six Sigma Green Belt               | Owens&Minors       | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/lean_six_sigma_green_belt.pdf) |
+| Quality Manager Certificate             | Owens&Minors       | 2025        | [![View](https://img.shields.io/badge/View-jpg-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20And%20Certifications/quality_manager_certificate.pdf) |
+
+
 ## 📈 Professional Journey
 
 ### 🏢 Current Role: Quality Team Lead @ Owens and Minor
