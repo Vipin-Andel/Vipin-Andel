@@ -147,7 +147,7 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Vipin Andel"
         self.role = "Quality Team Lead → Data Analyst"
         self.location = "Indore, Madhya Pradesh, India"
         self.skills = ["Python", "SQL", "Power BI", "Data Analysis"]
