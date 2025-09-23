@@ -168,5 +168,8 @@ class DataAnalyst:
 me = DataAnalyst()
 me.say_hi()
 ```
+## 📄 Resume
+
+[![View Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Vipin_Andel_Resume.pdf)
 
 *Last updated: September 2025* ✨
