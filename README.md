@@ -80,7 +80,7 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 
 - 🎓 **Google Data Analytics Professional Certificate** - Coursera (In Progress)
 - 📊 **Power BI Data Analyst Associate** - Microsoft (Preparing)
-- 🐍 **Python for Data Science** - Self-Learning
+- 🐍 **Python for Data Science** - Completed
 - 💾 **SQL for Data Science** - Completed
 - 📈 **Data Visualization with Power BI** - Completed
 
