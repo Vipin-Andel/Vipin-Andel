@@ -84,14 +84,15 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 - 💾 **SQL for Data Science** - Completed
 - 📈 **Data Visualization with Power BI** - Completed
 
-| Certificate Name                        | Issued By    | Date        | Credential |
-|-----------------------------------------|--------------|-------------|------------|
-| Python for Data Science                 | CloudyML     | Sep-2025        | [![View](https://img.shields.io/badge/View-Certificate-yellow?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Python%20for%20Data%20Science.jpg) |
-| Power BI Analyst                        | CloudyML     | Aug-2025        | [![View](https://img.shields.io/badge/View-Certificate-darkred?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Power%20Bi%20Analyst.jpg) |
-| SQL for Data Science                    | CloudyML     | Aug-2025        | [![View](https://img.shields.io/badge/View-Certificate-yellow?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/SQL%20for%20Data%20Science.jpg) |
-| Excel Analytics                         | CloudyML     | Aug-2025        | [![View](https://img.shields.io/badge/View-Certificate-darkred?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Excel%20Analytics.jpg) |
-| Lean Six Sigma Green Belt               | Owens&Minors       | Feb-2024        | [![View](https://img.shields.io/badge/View-Certificate-yellow?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Lean%20Six%20Sigma%20Green%20Belt.jpg) |
-| Quality Manager Certificate             | Owens&Minors       | May-2025        | [![View](https://img.shields.io/badge/View-Certificate-darkred?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Quality%20Manager%20Certificate.jpg) |
+| ![Cert](https://img.shields.io/badge/Certificate-Name-1abc9c?style=for-the-badge&logo=google-scholar&logoColor=white) | ![Issuer](https://img.shields.io/badge/Issued-By-3498db?style=for-the-badge&logo=microsoft&logoColor=white) | ![Date](https://img.shields.io/badge/Date-9b59b6?style=for-the-badge&logo=calendar&logoColor=white) | ![Credential](https://img.shields.io/badge/Credential-Link-e67e22?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Python for Data Science  | CloudyML     | Sep-2025 | [![View](https://img.shields.io/badge/View-Certificate-007ACC?style=flat-square&logo=python&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Python%20for%20Data%20Science.jpg) |
+| Power BI Analyst         | CloudyML     | Aug-2025 | [![View](https://img.shields.io/badge/View-Certificate-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Power%20Bi%20Analyst.jpg) |
+| SQL for Data Science     | CloudyML     | Aug-2025 | [![View](https://img.shields.io/badge/View-Certificate-FF4B4B?style=flat-square&logo=databricks&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/SQL%20for%20Data%20Science.jpg) |
+| Excel Analytics          | CloudyML     | Aug-2025 | [![View](https://img.shields.io/badge/View-Certificate-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Excel%20Analytics.jpg) |
+| Lean Six Sigma Green Belt| Owens&Minors | Feb-2024 | [![View](https://img.shields.io/badge/View-Certificate-00A86B?style=flat-square&logo=leanpub&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Lean%20Six%20Sigma%20Green%20Belt.jpg) |
+| Quality Manager Certificate | Owens&Minors | May-2025 | [![View](https://img.shields.io/badge/View-Certificate-8E44AD?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Quality%20Manager%20Certificate.jpg) |
+
 
 
 ## 📈 Professional Journey
@@ -165,18 +166,36 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 class DataAnalyst:
     def __init__(self):
         self.name = "Vipin Andel"
-        self.role = "Quality Team Lead → Data Analyst"
-        self.location = "Indore, Madhya Pradesh, India"
-        self.skills = ["Python", "SQL", "Power BI", "Data Analysis"]
-        self.interests = ["Data Visualization", "Business Intelligence", "Machine Learning"]
-        self.current_focus = "Building amazing data analytics projects"
-        self.life_motto = "Transform data into stories that drive decisions"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's connect and build something amazing together!")
+        self.role = "Quality Team Lead → Aspiring Data Analyst 🚀"
+        self.location = "📍 Indore, Madhya Pradesh, India"
+        self.skills = ["🐍 Python", "🗄️ SQL", "📊 Power BI", "📑 Data Analysis"]
+        self.interests = ["📈 Data Visualization", "💡 Business Intelligence", "🤖 Machine Learning"]
+        self.current_focus = "⚡ Building impactful data analytics projects"
+        self.life_motto = "✨ Transform data into stories that drive decisions"
+        self.fun_fact = "I believe good tea ☕ = better insights!"
 
+    def say_hi(self):
+        print(f"👋 Hi, I'm {self.name}!")
+        print(f"💼 Role: {self.role}")
+        print(f"🌍 Based in: {self.location}")
+        print(f"🛠️ Skills: {', '.join(self.skills)}")
+        print(f"🎯 Interests: {', '.join(self.interests)}")
+        print(f"📌 Current Focus: {self.current_focus}")
+        print(f"💡 Motto: {self.life_motto}")
+        print(f"🤓 Fun Fact: {self.fun_fact}")
+        print("\nThanks for visiting my profile! Let's connect and build something amazing together! 🚀")
+
+    def __str__(self):
+        return f"🔎 {self.name} | {self.role} | {self.location}"
+
+# Create object & say hi
 me = DataAnalyst()
 me.say_hi()
+
+# Print object summary
+print("\nObject Summary:", me)
+
+
 ```
 <div align="center">
 
@@ -192,4 +211,5 @@ me.say_hi()
 
 </div>
 
-                                              *Last updated: September 2025* ✨
+                                               *Last updated: September 2025* 
+                                                              ✨
