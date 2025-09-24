@@ -178,8 +178,18 @@ class DataAnalyst:
 me = DataAnalyst()
 me.say_hi()
 ```
-## 📄 Resume
+<div align="center">
 
-[![View Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Vipin_Andel_Resume.pdf)
+<!-- Animated Heading (Typing) -->
+<a href="https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Vipin_Andel_Resume.pdf">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=✨+VIEW+MY+RESUME+✨" alt="Typing Resume Heading"/>
+</a>
+<!-- Clickable Badge Button -->
+<br><br>
+<a href="https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Vipin_Andel_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-CLICK%20HERE!-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=8A2BE2" alt="Resume Button"/>
+</a>
 
-*Last updated: September 2025* ✨
+</div>
+
+                                              *Last updated: September 2025* ✨
