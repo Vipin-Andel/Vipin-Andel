@@ -41,6 +41,18 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vipin-Andel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <br>
+
+  <img height="180em" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vipin-Andel&layout=compact&langs_count=8&theme=tokyonight&card_width=350" />
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipin-Andel&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
