@@ -95,6 +95,7 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 | Excel Analytics          | CloudyML     | Aug-2025 | [![View](https://img.shields.io/badge/View-Certificate-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Excel%20Analytics.jpg) |
 | Lean Six Sigma Green Belt| Owens&Minors | Feb-2024 | [![View](https://img.shields.io/badge/View-Certificate-00A86B?style=flat-square&logo=leanpub&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Lean%20Six%20Sigma%20Green%20Belt.jpg) |
 | Quality Manager Certificate | Owens&Minors | May-2025 | [![View](https://img.shields.io/badge/View-Certificate-8E44AD?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/Quality%20Manager%20Certificate.jpg) |
+| McKinsey Forward Learning Certificate | McKinsey.org | May-2025 | [![View](https://img.shields.io/badge/View-Certificate-007ACC?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Vipin-Andel/Vipin-Andel/blob/main/Recent%20Learning%20and%20Certifications/McKinsey%20Forward%20Learning%20Cert.pdf) |
 
 
 
