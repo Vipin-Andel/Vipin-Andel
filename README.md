@@ -144,8 +144,9 @@ I'm a **Quality Team Lead** transitioning into **Data Analytics**, passionate ab
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vipin-Andel&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=Vipin-Andel&theme=discord&no-frame=true" />
 </div>
+
 
 ---
 
